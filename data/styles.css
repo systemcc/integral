@@ -51,6 +51,11 @@
 ._文本段落 {
   text-align:left;
 }
+.line {
+}
+.checkbox {
+  text-align:left;
+}
 .radio_button {
   text-align:left;
 }
@@ -59,6 +64,8 @@
 ._流程形状 {
 }
 .box_2 {
+}
+.placeholder {
 }
 .box_1 {
 }
@@ -71,4 +78,7 @@
 .flow_shape {
 }
 .button {
+}
+.primary_button {
+  color:#FFFFFF;
 }
