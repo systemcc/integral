@@ -2482,36 +2482,3 @@
   width:215px;
   white-space:nowrap;
 }
-#u932_div {
-  border-width:0px;
-  position:absolute;
-  left:0px;
-  top:0px;
-  width:59px;
-  height:18px;
-  background:inherit;
-  background-color:rgba(255, 255, 255, 0);
-  border:none;
-  border-radius:0px;
-  -moz-box-shadow:none;
-  -webkit-box-shadow:none;
-  box-shadow:none;
-  color:#428BCA;
-}
-#u932 {
-  border-width:0px;
-  position:absolute;
-  left:141px;
-  top:250px;
-  width:59px;
-  height:18px;
-  color:#428BCA;
-}
-#u932_text {
-  border-width:0px;
-  position:absolute;
-  left:0px;
-  top:0px;
-  width:59px;
-  white-space:nowrap;
-}
